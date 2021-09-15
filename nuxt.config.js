@@ -71,7 +71,7 @@ export default {
       // 请填写你的后台接口地址
       // target: "https://api.inis.cn/api",
       // target: "https://api.starssr.com/api",
-      target: "https://api.kamtao.com/api",
+      target: "https://test.inis.cn/api",
 
       pathRewrite: {
         "^/api/": "/",
